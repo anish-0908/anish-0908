@@ -1,16 +1,30 @@
-## Hi there 👋
+🚀 Hi, I'm Anish Padhiyar
 
-<!--
-**anish-0908/anish-0908** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BTech Student | 🤖 AI & ML Enthusiast | 💻 Full-Stack Developer
 
-Here are some ideas to get you started:
+I build intelligent systems, scalable web apps, and automation tools focused on solving real-world problems.
+Currently exploring Artificial Intelligence, Trading Systems, and Modern Web Technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 About Me
+🔭 Currently working on AI-powered applications & full-stack projects
+📚 Learning Machine Learning, Deep Learning, and System Design
+💡 Interested in automation, trading strategies, and startups
+🎯 Goal: Build impactful tech & scale it to real-world use
+⚙️ Tech Stack
+💻 Languages
+Python 🐍
+JavaScript ⚡
+C++
+🌐 Web Development
+React.js
+Node.js
+Firebase
+Tailwind CSS
+🤖 AI / ML
+TensorFlow / PyTorch
+OpenCV
+NLP & Computer Vision
+🛠 Tools
+Git & GitHub
+Docker
+VS Code
